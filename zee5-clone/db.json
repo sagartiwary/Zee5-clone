@@ -1,0 +1,1065 @@
+{
+  "banner": [
+    {
+      "released": "20 Nov 2020",
+      "case": "Pradeep Pandey",
+      "director": "Bikshu vulli",
+      "image": "https://akamaividz2.zee5.com/image/upload/w_1013,h_405,c_scale,f_webp,q_auto:eco/resources/0-0-1z5234663/cover/1920x7708f2251201adf41988e18982f4dc2b7e6.jpg",
+      "id": 1
+    },
+    {
+      "released": "24 Mar 2023",
+      "case": "Kunal Kemmu Shweta Tripathi Sharma Piyush Mishra Alka Amin",
+      "director": "Vipul Mehta",
+      "image": "https://akamaividz2.zee5.com/image/upload/w_1013,h_405,c_scale,f_webp,q_auto:eco/resources/0-0-1z5326731/cover/1920x7703e4538fc4fa8454b93f54ac1957833f0.jpg",
+      "id": 2
+    },
+    {
+      "released": "20 Jan 2023",
+      "case": "Rakul Preet Singh Sumeet Vyas Sumeet Vyas  Dolly Ahluwalia Rajesh Tailang",
+      "director": "Tejas Prabhaa Vijay Deoskar",
+      "image": "https://akamaividz2.zee5.com/image/upload/w_1013,h_405,c_scale,f_webp,q_auto:eco/resources/0-0-1z5281750/cover/1920x77092472069ec2140cb8045f4851d4c9c3c.jpg",
+      "id": 3
+    },
+    {
+      "released": "16 Feb 2023",
+      "case": "Yami Gautam Pankaj Kapur Pia Bajpiee Tushar Pandey Rahul Khanna ",
+      "director": "Aniruddha Roy Chowdhury",
+      "image": "https://akamaividz2.zee5.com/image/upload/w_1013,h_405,c_scale,f_webp,q_auto:eco/resources/0-0-1z5299828/cover/1920x77023958a1676e340ddb2cd592012f3c263.jpg",
+      "id": 4
+    },
+    {
+      "released": "16 Feb 2023",
+      "case": "Yami Gautam Pankaj Kapur Pia Bajpiee Tushar Pandey Rahul Khanna ",
+      "director": "Aniruddha Roy Chowdhury",
+      "image": "https://akamaividz2.zee5.com/image/upload/w_1013,h_405,c_scale,f_webp,q_auto:eco/resources/0-6-366/cover/1920x770e0beb888151549ae9a2e44a81bdca399.jpg",
+      "id": 5
+    },
+    {
+      "released": "16 Feb 2023",
+      "case": "Yami Gautam Pankaj Kapur Pia Bajpiee Tushar Pandey Rahul Khanna ",
+      "director": "Aniruddha Roy Chowdhury",
+      "image": "https://akamaividz2.zee5.com/image/upload/w_1013,h_405,c_scale,f_webp,q_auto:eco/resources/0-6-127/cover/1920x77014246e9f1b864bd8996c9a1cb54f6ad3.jpg",
+      "id": 6
+    }
+  ],
+  "poster_bottom": [
+    {
+      "image": "https://akamaividz2.zee5.com/image/upload/w_1286,h_236,c_scale,f_webp,q_auto:eco/resources/0-101-10z5314667/homefeed_launcher_sticker/hindileveragingongoingcableissuein1312x3122832023c264688e51464d399e1085f3522bf0bc.jpg",
+      "id": 1
+    },
+    {
+      "image": "https://akamaividz2.zee5.com/image/upload/w_1286,h_236,c_scale,f_webp,q_auto:eco/resources/0-101-10z5333824/homefeed_launcher_sticker/svodtoavodp1in1312x3122432023fe37072401be411aaa42f5d3d4d8542a.jpg",
+      "id": 2
+    }
+  ],
+  "trending": [
+    {
+      "Audio Languages": " Hindi Tamil Telugu",
+      "Subtitles": " English",
+      "Description": "This ZEE5 Original narrates the tale of crime reporter Vidhi, who is out to find a missing college student. Her quest reveals the many layers of society that redefine politics, love, and betrayal.",
+      "Cast": " [ Naseeruddin Shah , Dharmendra, Aditi Rao Hydari ] ",
+      "Derector": "",
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-4z5311140/portrait/1920x7702288c19af62b45bca7b65d8f277922cd.jpg",
+      "Released": "3 Mar 2023",
+      "id": 1
+    },
+    {
+      "Audio Languages": " Hindi",
+      "Subtitles": " English",
+      "Description": "This ZEE5 Original narrates the tale of crime reporter Vidhi, who is out to find a missing college student. Her quest reveals the many layers of society that redefine politics, love, and betrayal.",
+      "Cast": " [ Yami Gautam , Pankaj Kapur, Pia Bajpiee, Tushar Pandey, Rahul Khanna  ] ",
+      "Derector": "Aniruddha Roy Chowdhury",
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5299828/portrait/1920x77023958a1676e340ddb2cd592012f3c263.jpg",
+      "Released": "16 Feb 2023",
+      "id": 2
+    },
+    {
+      "Audio Languages": " Hindi",
+      "Subtitles": " English",
+      "Description": "This ZEE5 Original film follows the stories of four individuals from different strata of society during the 21-day lockdown imposed by the Indian government in the wake of the COVID-19 pandemic.",
+      "Cast": " [ Shweta Basu Prasad , Ahana Kumra, Prateik Babbar, Sai Tamhankar, Prakash Belawadi  ] ",
+      "Derector": "Madhur Bhandarkar",
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5250012/portrait/1920x7702e2ba8da340346f9b2256075cd4a39f2.jpg",
+      "Released": "2 Dec 2022",
+      "id": 3
+    },
+    {
+      "Audio Languages": " Hindi",
+      "Subtitles": " English",
+      "Description": "Punjabi boy Tango aspires to become an NRI based out of England, even if it means being an illegal immigrant. Things take a hilarious turn once he reaches there and has to live like a 'kaccha'.",
+      "Cast": " [ Sunil Grover , Nikhil Vijay, Prateik Babbar, Sapna Pabbi  ] ",
+      "Derector": "Madhur Bhandarkar",
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-4z5327133/portrait/1920x77019df0ca6c2c6485b86287f7ec4a9f754.jpg",
+      "Released": "31 Mar 2023",
+      "id": 4
+    },
+    {
+      "Audio Languages": "indi, Tamil, Telugu",
+      "Subtitles": " English",
+      "Description": "A single mother and celebrated IPS officer, Kavya Iyer's bravery and psychological strength are tested when she becomes the lead investigator in an ISIS-K bomb attack case.",
+      "Cast": " [ Regina Cassandra , Barun Sobti, Mita Vashisht ] ",
+      "Derector": "Madhur Bhandarkar",
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-4z5281686/portrait/1920x7704af47d1e734948e381572ad1b52a4ecb4df6c4abb1824eac8df67df6ee440910.jpg",
+      "Released": "26 Jan 2023",
+      "id": 5
+    },
+    {
+      "Audio Languages": "indi, Tamil, Telugu",
+      "Subtitles": " English",
+      "Description": "Venky suffers from a rare type of muscular dystrophy and wants to donate his organs. With his mother's support, he petitions for legalising euthanasia. Will his wish be granted in the court of law?",
+      "Cast": " [ Vishal Jethwa, Kajol, Aamir Khan, Rahul Bose, Priyamani, Ahana Kumra, Rajeev Khandelwal, Prakash Raj ] ",
+      "Derector": "Revathi",
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5301299/portrait/1920x770f5c57d4759124df5bbf870a68dfc6fb5.jpg",
+      "Released": "26 Jan 2020",
+      "id": 6
+    },
+    {
+      "Audio Languages": "indi, Tamil, Telugu",
+      "Subtitles": " English",
+      "Description": "When Mr. Kapoor of Sunflower Society is found dead, the cops arrive and interrogate the neighbours. In a society full of quirky characters, who must have killed Kapoor and why?",
+      "Cast": " [ Ranveer Shorey, Ashish Vidyarthi, Sunil Grover] ",
+      "Derector": "",
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-3284/portrait/1920x770ffd5406dde2541ddb0a0d4dcc57ee834.jpg",
+      "Released": "11 Jun 2021",
+      "id": 7
+    },
+    {
+      "Audio Languages": "indi, Tamil, Telugu",
+      "Subtitles": " English",
+      "Description": "The series traces the rise and fall of ‘Saheb’ Haroon Shah Ali Baig, a gangster-turned-politician, who was much loved and feared in Bihar.",
+      "Cast": " [ Vineet Kumar Singh,Aakanksha Singh, Vijay Maurya ] ",
+      "Derector": "",
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-4z5173774/portrait/1920x7706e8d8d70922c434c94dd09c14ccc5d5b.jpg",
+      "Released": "29 Jul 2022",
+      "id": 8
+    },
+    {
+      "Audio Languages": "indi, Tamil, Telugu",
+      "Subtitles": " English",
+      "Description": "After his wife's death, Otto becomes a pessimist and leads a grumpy life. Things change when his new neighbours move in, and he starts an odd friendship with Marisol, the lady next door.",
+      "Cast": " [ Tom Hanks,Mariana Trevino, Rachel Keller, Mack Bayda, Cameron Britton ] ",
+      "Derector": "Marc Forster",
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5327125/portrait/1920x770ce60559702cd4c4680e553e65590d2cf.jpg",
+      "Released": "29 Jul 2022",
+      "id": 9
+    },
+    {
+      "Audio Languages": "Hindi",
+      "Subtitles": " English",
+      "Description": "After the Sino-India war, a highly trained Indian spy enters Pakistan on a mission to gather crucial intelligence and stop Pakistan from launching an attack against India. Will he succeed?",
+      "Cast": " [ Prakash Raj, Zain Khan Durranir,Adil Hussain, ] ",
+      "Derector": "",
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-4z5199975/portrait/1920x770f545e44b4f784495a8845760cd4928dd16a9937a4ca94efd8688698bcbaa64be.jpg",
+      "Released": "11 Nov 2022",
+      "id": 10
+    },
+    {
+      "Audio Languages": "Hindi",
+      "Subtitles": " English",
+      "Description": "After the Sino-India war, a highly trained Indian spy enters Pakistan on a mission to gather crucial intelligence and stop Pakistan from launching an attack against India. Will he succeed?",
+      "Cast": " [ Prabhas, Pooja Hegde,Bhagyashree, Sathyaraj, Kunaal Roy Kapur ] ",
+      "Derector": "",
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5323027/portrait/1920x770fa5137dc5a86440da831630a7b36bfce.jpg",
+      "Released": "11 Mar 2022",
+      "id": 11
+    },
+    {
+      "Audio Languages": "Hindi",
+      "Subtitles": " English",
+      "Description": "Jamnaprasad, a renowned miser, secretly saves all his money to fulfil his father's wish to go on the Char Dham Yatra. Hell breaks loose when his parents go missing during the tour due to heavy floods.",
+      "Cast": " [ Kunal Kemmu, Shweta Tripathi Sharma,Piyush Mishra ] ",
+      "Derector": "Vipul Mehta",
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5326731/portrait/1920x7703e4538fc4fa8454b93f54ac1957833f0.jpg",
+      "Released": "24 Mar 2023",
+      "id": 12
+    },
+    {
+      "Audio Languages": "Hindi",
+      "Subtitles": " English",
+      "Description": "Three retired friends go on a trek to the Everest Base Camp to fulfill their dying friend's last wish. What starts as an adventure soon turns into a personal journey of emotional enlightenment.",
+      "Cast": " [ Radhika Apte, Sumeet Vyas,Rajesh Sharma,Rajesh Sharma ] ",
+      "Derector": "Anushree Mehta",
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5277822/portrait/1920x770c6300138e66e4caeb7bf3a4f9f02067b.jpg",
+      "Released": "24 Mar 2023",
+      "id": 13
+    },
+    {
+      "Audio Languages": "Kannada,Tamil,Telugu,Hindi,Malayalam",
+      "Subtitles": " English",
+      "Description": "A once peaceful man, Vedha, goes on a revenge killing spree with his daughter, Kanaka, after she gets released from prison. A daunting inspector Ramaa tries to stop the duo, only to be outrun by them.",
+      "Cast": " [ Shivarajkumar, Ganavi Laxman,Aditi Sagara,Shwetha Chengappa,Umashree ] ",
+      "Derector": "A Harsha",
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5294923/portrait/1920x770e3aefc4c53d848c0bc0188d02684a605.jpg",
+      "Released": "23 Dec 2022",
+      "id": 14
+    },
+    {
+      "Audio Languages": "Hindi",
+      "Subtitles": " English",
+      "Description": "Lala Kedarnath is blessed with 4 sisters. But his worry is to find suitable grooms for each of them, as only then can he marry his childhood love. To what lengths will he go to succeed?",
+      "Cast": " [ Akshay Kumar, Ganavi Laxman,Aditi Sagara,Shwetha Chengappa,Umashree ] ",
+      "Derector": "A Harsha",
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5228525/portrait/1920x77069dfde7f955d4ef69e73c3b682aa636baf7e693843c94bca830df12a92375a8b.jpg",
+      "Released": "23 Dec 2022",
+      "id": 15
+    },
+    {
+      "Audio Languages": "Hindi",
+      "Subtitles": " English",
+      "Description": "This ZEE5 Original movie revolves around Sanya, a chemistry genius who decides to use her skills to educate the youth on safe sex and bring about a much-needed social change while looking for a job.",
+      "Cast": " [ Rakul Preet Singh , Sumeet Vyas,Satish Kaushika,Dolly Ahluwalia,Rajesh Tailang ] ",
+      "Derector": "Tejas Prabhaa Vijay Deoskar",
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5228525/portrait/1920x77069dfde7f955d4ef69e73c3b682aa636baf7e693843c94bca830df12a92375a8b.jpg",
+      "Released": "20 Jan 2023",
+      "id": 16
+    },
+    {
+      "Audio Languages": "Hindi",
+      "Subtitles": " English",
+      "Description": "This ZEE5 Original movie revolves around Sanya, a chemistry genius who decides to use her skills to educate the youth on safe sex and bring about a much-needed social change while looking for a job.",
+      "Cast": " [ Rakul Preet Singh , Sumeet Vyas,Satish Kaushika,Dolly Ahluwalia,Rajesh Tailang ] ",
+      "Derector": "Tejas Prabhaa Vijay Deoskar",
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5133458/portrait/1920x7705e3a6b40432b4462af572d54a80e9e11.jpg",
+      "Released": "20 Jan 2023",
+      "id": 17
+    },
+    {
+      "Audio Languages": "Hindi",
+      "Subtitles": " English",
+      "Description": "This ZEE5 Original movie revolves around Sanya, a chemistry genius who decides to use her skills to educate the youth on safe sex and bring about a much-needed social change while looking for a job.",
+      "Cast": " [ Rakul Preet Singh , Sumeet Vyas,Satish Kaushika,Dolly Ahluwalia,Rajesh Tailang ] ",
+      "Derector": "Tejas Prabhaa Vijay Deoskar",
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-33204/portrait/1920x770eb95d00347474d48a4307809cedc50a0f79046ee222f44e7b981d97c611ce977.jpg",
+      "Released": "20 Jan 2023",
+      "id": 18
+    },
+    {
+      "Audio Languages": "Hindi",
+      "Subtitles": " English",
+      "Description": "This ZEE5 Original movie revolves around Sanya, a chemistry genius who decides to use her skills to educate the youth on safe sex and bring about a much-needed social change while looking for a job.",
+      "Cast": " [ Rakul Preet Singh , Sumeet Vyas,Satish Kaushika,Dolly Ahluwalia,Rajesh Tailang ] ",
+      "Derector": "Tejas Prabhaa Vijay Deoskar",
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5191648/portrait/1920x7707e8d3f1df8994004bb221eedf6992218.jpg",
+      "Released": "20 Jan 2023",
+      "id": 19
+    },
+    {
+      "Audio Languages": "Hindi",
+      "Subtitles": " English",
+      "Description": "This ZEE5 Original movie revolves around Sanya, a chemistry genius who decides to use her skills to educate the youth on safe sex and bring about a much-needed social change while looking for a job.",
+      "Cast": " [ Rakul Preet Singh , Sumeet Vyas,Satish Kaushika,Dolly Ahluwalia,Rajesh Tailang ] ",
+      "Derector": "Tejas Prabhaa Vijay Deoskar",
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5206274/portrait/1920x770485283887ce04c66a91f3e5dc0e20747.jpg",
+      "Released": "20 Jan 2023",
+      "id": 20
+    }
+  ],
+  "top-10": [
+    {
+      "Audio Languages": "Hindi",
+      "Subtitles": " English",
+      "Description": "Jamnaprasad, a renowned miser, secretly saves all his money to fulfil his father's wish to go on the Char Dham Yatra. Hell breaks loose when his parents go missing during the tour due to heavy floods.",
+      "Cast": " [ Kunal Kemmu , Shweta Tripathi Sharma,DPiyush Mishra, Alka Amin] ",
+      "Derector": "Vipul Mehta",
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5326731/portrait/1920x7703e4538fc4fa8454b93f54ac1957833f0.jpg",
+      "Released": "24 Mar 2023",
+      "Details": " The film Kanjoos Makhichoos is a dark comedy that tells the story of a stingy man named Jamnaprasad Pandey who is trying to save money so that he can take his parents on a pilgrimage (Char Dhaam Yatra). Nevertheless, fate has other ideas for him when a flood takes the lives of both of his parents. When Jamnaprasad Pandey finds out that he will only receive half of the compensation amount that was stated by the government, he is left in a state of utter despair. Middlemen and widespread corruption are to blame for this situation. As he battles against the tainted system in order to obtain his just pay, the plot takes a number of funny turns and twists in the remaining chapters. ",
+      "id": 1
+    },
+    {
+      "Audio Languages": "Telugu",
+      "Subtitles": " English",
+      "Description": "Padmabhushan, a writer aspiring to be famous, publishes his first book that fails to create any buzz. He meets a girl who claims to be his fan and falls in love with her. Will she change his life?",
+      "Cast": " [ Suhas , Tina Shilparaj,Rohini, Ashish Vidyarthi] ",
+      "Derector": "Shanmukha Prasanth",
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5323051/portrait/1920x770c6209a68ff484c27a1d3ae1a4164c66b.jpg",
+      "Released": "3 February 2023",
+      "Details": " Writer Padmabhushan is a 2023 Telugu comedy movie directed by Debutant Shanmukha Prasanth. The movie is an emotional roller coaster ride of Padmabhushan, a 25-year-old aspiring author and his journey to fame, love, and overcoming obstacles in the movie. ",
+      "id": 2
+    },
+    {
+      "Audio Languages": "Tamil,Telugu,Kannada",
+      "Subtitles": " English",
+      "Description": "A newly-married woman struggles to adjust to her husband's conservative family. Will she turn into a submissive daughter-in-law, or will she find the courage to leave",
+      "Cast": " [ Aishwarya Rajesh , Rahul Ravindran,Nanda kumar, Yogi Babu] ",
+      "Derector": "R Kannan",
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5318993/portrait/1920x7707f79b672400b47f29292891bf2c80651de284427fcaa4437b9e54e896b393315.jpg",
+      "Released": "3 February 2023",
+      "Details": "The Great Indian Kitchen is a Tamil drama movie about a newly wed couple. A sociology teacher marries a Bharatnatyam dancer. From an orthodox patriarchal family, the teacher believes that the tag ‘Kudumba Thalaivar’ belongs to men even if they don’t satisfy the economic needs of the family. He also teaches this to his students. Having a different mindset, the dancer tries her best to get used to this family. However, she finds it difficult, even more so in the absence of her mother-in-law. Will she be able to jell properly in the family? Watch the movie to find out. It is also available in Telugu and Kannada languages on ZEE%.  ",
+      "id": 3
+    },
+    {
+      "Audio Languages": "Hindi",
+      "Subtitles": " English",
+      "Description": "Three retired friends go on a trek to the Everest Base Camp to fulfill their dying friend's last wish. What starts as an adventure soon turns into a personal journey of emotional enlightenment.",
+      "Cast": " [Amitabh Bachchan ,Anupam Kher,Boman Irani, Parineeti Chopra] ",
+      "Derector": "Sooraj R Barjatya",
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5277822/portrait/1920x770c6300138e66e4caeb7bf3a4f9f02067b.jpg",
+      "Released": "3 February 2023",
+      "Details": "The Great Indian Kitchen is a Tamil drama movie about a newly wed couple. A sociology teacher marries a Bharatnatyam dancer. From an orthodox patriarchal family, the teacher believes that the tag ‘Kudumba Thalaivar’ belongs to men even if they don’t satisfy the economic needs of the family. He also teaches this to his students. Having a different mindset, the dancer tries her best to get used to this family. However, she finds it difficult, even more so in the absence of her mother-in-law. Will she be able to jell properly in the family? Watch the movie to find out. It is also available in Telugu and Kannada languages on ZEE%.  ",
+      "id": 4
+    },
+    {
+      "Audio Languages": "Hindi",
+      "Subtitles": " English",
+      "Description": "Three retired friends go on a trek to the Everest Base Camp to fulfill their dying friend's last wish. What starts as an adventure soon turns into a personal journey of emotional enlightenment.",
+      "Cast": " [Rakul Preet Singh ,Sumeet Vyas,Satish Kaushik, Dolly Ahluwalia,Rajesh Tailang] ",
+      "Derector": "Tejas Prabhaa Vijay Deoskar",
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5277822/portrait/1920x770c6300138e66e4caeb7bf3a4f9f02067b.jpg",
+      "Released": "20 Jan 2023",
+      "Details": "Chhatriwali is a ZEE5 original Hindi film focusing on an extremely important social issue ‘Safe Sex.’ The schools teach the students about reproductive education, but they try to evade the doubts regarding those and refuse to go into many details. This gives them half-knowledge, leading to future problems, such as miscarriages.  ",
+      "id": 5
+    },
+    {
+      "Audio Languages": "Hindi",
+      "Subtitles": " English",
+      "Description": "A 14-year-old girl's life turns upside down when she finds herself pregnant after being sexually abused. With the support of her family, she begins a battle in court for the right to abortion.",
+      "Cast": " [Anushka Sen ,Neelu Dogra,Pooja Dargan, Tariq Khan,Ahmer Haider] ",
+      "Derector": "Rahat Kazmi",
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5323147/portrait/1920x770d79df09a751242cda5aeaec20e6a1291ee6dc950c1cd49e6845c6e17cb33a64b.jpg",
+      "Released": "17 Mar 2023",
+      "Details": "Am I next is a ZEE5 original Hindi film focusing on an extremely important social issue ‘Safe Sex.’ The schools teach the students about reproductive education, but they try to evade the doubts regarding those and refuse to go into many details. This gives them half-knowledge, leading to future problems, such as miscarriages.  ",
+      "id": 6
+    },
+    {
+      "Audio Languages": "Hindi",
+      "Subtitles": " English",
+      "Description": "This ZEE5 Original narrates the tale of crime reporter Vidhi, who is out to find a missing college student. Her quest reveals the many layers of society that redefine politics, love, and betrayal.",
+      "Cast": " [   ,Neelu Dogra,Pooja Dargan, Tariq Khan,Ahmer Haider] ",
+      "Derector": "Rahat Kazmi",
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5299828/portrait/1920x77023958a1676e340ddb2cd592012f3c263.jpg",
+      "Released": "16 Feb 2023",
+      "Details": " In this ZEE5 Original, crime reporter Vidhi sets out to track out a vanished college student. The character of crime reporter Vidhi Sahani, played by Yami Gautam in the LOST movie, looks uncompromising in her quest for the truth. Her journey shows society's varying aspects, which reinvent the definition of politics, compassion, and treachery.   ",
+      "id": 7
+    },
+    {
+      "Audio Languages": "Hindi",
+      "Subtitles": " English",
+      "Description": "This ZEE5 Original narrates the tale of crime reporter Vidhi, who is out to find a missing college student. Her quest reveals the many layers of society that redefine politics, love, and betrayal.",
+      "Cast": " [   ,Neelu Dogra,Pooja Dargan, Tariq Khan,Ahmer Haider] ",
+      "Derector": "Rahat Kazmi",
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5327035/portrait/1920x770367ef9fd8ca8493d97b6434c6dfdbb72.jpg",
+      "Details": " In this ZEE5 Original, crime reporter Vidhi sets out to track out a vanished college student. The character of crime reporter Vidhi Sahani, played by Yami Gautam in the LOST movie, looks uncompromising in her quest for the truth. Her journey shows society's varying aspects, which reinvent the definition of politics, compassion, and treachery.   ",
+      "id": 8
+    },
+    {
+      "Audio Languages": "Hindi",
+      "Subtitles": " English",
+      "Description": "This ZEE5 Original narrates the tale of crime reporter Vidhi, who is out to find a missing college student. Her quest reveals the many layers of society that redefine politics, love, and betrayal.",
+      "Cast": " [   ,Neelu Dogra,Pooja Dargan, Tariq Khan,Ahmer Haider] ",
+      "Derector": "Rahat Kazmi",
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5330748/portrait/1920x7707a6ec6f5ec5b4f7d930167af73571714.jpg",
+      "Details": " In this ZEE5 Original, crime reporter Vidhi sets out to track out a vanished college student. The character of crime reporter Vidhi Sahani, played by Yami Gautam in the LOST movie, looks uncompromising in her quest for the truth. Her journey shows society's varying aspects, which reinvent the definition of politics, compassion, and treachery.   ",
+      "id": 9
+    }
+  ],
+  "top-bhojpuri": [
+    {
+      "Audio Languages": "Hindi",
+      "Subtitles": " English",
+      "Description": "This ZEE5 Original narrates the tale of crime reporter Vidhi, who is out to find a missing college student. Her quest reveals the many layers of society that redefine politics, love, and betrayal.",
+      "Cast": " [   ,Neelu Dogra,Pooja Dargan, Tariq Khan,Ahmer Haider] ",
+      "Derector": "Rahat Kazmi",
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-19144/portrait/0019144cover1012146238.jpg",
+      "Details": " In this ZEE5 Original, crime reporter Vidhi sets out to track out a vanished college student. The character of crime reporter Vidhi Sahani, played by Yami Gautam in the LOST movie, looks uncompromising in her quest for the truth. Her journey shows society's varying aspects, which reinvent the definition of politics, compassion, and treachery.   ",
+      "id": 1
+    },
+    {
+      "Audio Languages": "Hindi",
+      "Subtitles": " English",
+      "Description": "This ZEE5 Original narrates the tale of crime reporter Vidhi, who is out to find a missing college student. Her quest reveals the many layers of society that redefine politics, love, and betrayal.",
+      "Cast": " [   ,Neelu Dogra,Pooja Dargan, Tariq Khan,Ahmer Haider] ",
+      "Derector": "Rahat Kazmi",
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5234663/portrait/1920x7708f2251201adf41988e18982f4dc2b7e6.jpg",
+      "Details": " In this ZEE5 Original, crime reporter Vidhi sets out to track out a vanished college student. The character of crime reporter Vidhi Sahani, played by Yami Gautam in the LOST movie, looks uncompromising in her quest for the truth. Her journey shows society's varying aspects, which reinvent the definition of politics, compassion, and treachery.   ",
+      "id": 2
+    },
+    {
+      "Audio Languages": "Hindi",
+      "Subtitles": " English",
+      "Description": "This ZEE5 Original narrates the tale of crime reporter Vidhi, who is out to find a missing college student. Her quest reveals the many layers of society that redefine politics, love, and betrayal.",
+      "Cast": " [   ,Neelu Dogra,Pooja Dargan, Tariq Khan,Ahmer Haider] ",
+      "Derector": "Rahat Kazmi",
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-35021/portrait/1920x770646320061d2f4150a81841c2df7aa825.jpg",
+      "Details": " In this ZEE5 Original, crime reporter Vidhi sets out to track out a vanished college student. The character of crime reporter Vidhi Sahani, played by Yami Gautam in the LOST movie, looks uncompromising in her quest for the truth. Her journey shows society's varying aspects, which reinvent the definition of politics, compassion, and treachery.   ",
+      "id": 3
+    },
+    {
+      "Audio Languages": "Hindi",
+      "Subtitles": " English",
+      "Description": "This ZEE5 Original narrates the tale of crime reporter Vidhi, who is out to find a missing college student. Her quest reveals the many layers of society that redefine politics, love, and betrayal.",
+      "Cast": " [   ,Neelu Dogra,Pooja Dargan, Tariq Khan,Ahmer Haider] ",
+      "Derector": "Rahat Kazmi",
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5202687/portrait/1920x770bb8681e556df40dc8306b11c8e074d9a.jpg",
+      "Details": " In this ZEE5 Original, crime reporter Vidhi sets out to track out a vanished college student. The character of crime reporter Vidhi Sahani, played by Yami Gautam in the LOST movie, looks uncompromising in her quest for the truth. Her journey shows society's varying aspects, which reinvent the definition of politics, compassion, and treachery.   ",
+      "id": 4
+    },
+    {
+      "Audio Languages": "Hindi",
+      "Subtitles": " English",
+      "Description": "This ZEE5 Original narrates the tale of crime reporter Vidhi, who is out to find a missing college student. Her quest reveals the many layers of society that redefine politics, love, and betrayal.",
+      "Cast": " [   ,Neelu Dogra,Pooja Dargan, Tariq Khan,Ahmer Haider] ",
+      "Derector": "Rahat Kazmi",
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5238458/portrait/1920x77043938dce63e545c69b5c8f76f8381d18.jpg",
+      "Details": " In this ZEE5 Original, crime reporter Vidhi sets out to track out a vanished college student. The character of crime reporter Vidhi Sahani, played by Yami Gautam in the LOST movie, looks uncompromising in her quest for the truth. Her journey shows society's varying aspects, which reinvent the definition of politics, compassion, and treachery.   ",
+      "id": 5
+    },
+    {
+      "Audio Languages": "Hindi",
+      "Subtitles": " English",
+      "Description": "This ZEE5 Original narrates the tale of crime reporter Vidhi, who is out to find a missing college student. Her quest reveals the many layers of society that redefine politics, love, and betrayal.",
+      "Cast": " [   ,Neelu Dogra,Pooja Dargan, Tariq Khan,Ahmer Haider] ",
+      "Derector": "Rahat Kazmi",
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5222689/portrait/1920x7703924cf9824184ce8910977cc88aab781.jpg",
+      "Details": " In this ZEE5 Original, crime reporter Vidhi sets out to track out a vanished college student. The character of crime reporter Vidhi Sahani, played by Yami Gautam in the LOST movie, looks uncompromising in her quest for the truth. Her journey shows society's varying aspects, which reinvent the definition of politics, compassion, and treachery.   ",
+      "id": 6
+    },
+    {
+      "Audio Languages": "Hindi",
+      "Subtitles": " English",
+      "Description": "This ZEE5 Original narrates the tale of crime reporter Vidhi, who is out to find a missing college student. Her quest reveals the many layers of society that redefine politics, love, and betrayal.",
+      "Cast": " [   ,Neelu Dogra,Pooja Dargan, Tariq Khan,Ahmer Haider] ",
+      "Derector": "Rahat Kazmi",
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5242966/portrait/1920x77036401cc620184b7188db991a724fe429.jpg",
+      "Details": " In this ZEE5 Original, crime reporter Vidhi sets out to track out a vanished college student. The character of crime reporter Vidhi Sahani, played by Yami Gautam in the LOST movie, looks uncompromising in her quest for the truth. Her journey shows society's varying aspects, which reinvent the definition of politics, compassion, and treachery.   ",
+      "id": 7
+    },
+    {
+      "Audio Languages": "Hindi",
+      "Subtitles": " English",
+      "Description": "This ZEE5 Original narrates the tale of crime reporter Vidhi, who is out to find a missing college student. Her quest reveals the many layers of society that redefine politics, love, and betrayal.",
+      "Cast": " [   ,Neelu Dogra,Pooja Dargan, Tariq Khan,Ahmer Haider] ",
+      "Derector": "Rahat Kazmi",
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z531934/portrait/1920x7707c6dc06c31f54eebb5000a215d677936.jpg",
+      "Details": " In this ZEE5 Original, crime reporter Vidhi sets out to track out a vanished college student. The character of crime reporter Vidhi Sahani, played by Yami Gautam in the LOST movie, looks uncompromising in her quest for the truth. Her journey shows society's varying aspects, which reinvent the definition of politics, compassion, and treachery.   ",
+      "id": 8
+    },
+    {
+      "Audio Languages": "Hindi",
+      "Subtitles": " English",
+      "Description": "This ZEE5 Original narrates the tale of crime reporter Vidhi, who is out to find a missing college student. Her quest reveals the many layers of society that redefine politics, love, and betrayal.",
+      "Cast": " [   ,Neelu Dogra,Pooja Dargan, Tariq Khan,Ahmer Haider] ",
+      "Derector": "Rahat Kazmi",
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z517068/portrait/1920x7702f99bffd08b94da38717fc84b40ae066.jpg",
+      "Details": " In this ZEE5 Original, crime reporter Vidhi sets out to track out a vanished college student. The character of crime reporter Vidhi Sahani, played by Yami Gautam in the LOST movie, looks uncompromising in her quest for the truth. Her journey shows society's varying aspects, which reinvent the definition of politics, compassion, and treachery.   ",
+      "id": 9
+    },
+    {
+      "Audio Languages": "Hindi",
+      "Subtitles": " English",
+      "Description": "This ZEE5 Original narrates the tale of crime reporter Vidhi, who is out to find a missing college student. Her quest reveals the many layers of society that redefine politics, love, and betrayal.",
+      "Cast": " [   ,Neelu Dogra,Pooja Dargan, Tariq Khan,Ahmer Haider] ",
+      "Derector": "Rahat Kazmi",
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5194267/portrait/1920x770067030a5f82e4a778cfb74cb326b07e8.jpg",
+      "Details": " In this ZEE5 Original, crime reporter Vidhi sets out to track out a vanished college student. The character of crime reporter Vidhi Sahani, played by Yami Gautam in the LOST movie, looks uncompromising in her quest for the truth. Her journey shows society's varying aspects, which reinvent the definition of politics, compassion, and treachery.   ",
+      "id": 10
+    },
+    {
+      "Audio Languages": "Hindi",
+      "Subtitles": " English",
+      "Description": "This ZEE5 Original narrates the tale of crime reporter Vidhi, who is out to find a missing college student. Her quest reveals the many layers of society that redefine politics, love, and betrayal.",
+      "Cast": " [   ,Neelu Dogra,Pooja Dargan, Tariq Khan,Ahmer Haider] ",
+      "Derector": "Rahat Kazmi",
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5197898/portrait/1920x7708f0b52748ebb484b949f39f688028bbe.jpg",
+      "Details": " In this ZEE5 Original, crime reporter Vidhi sets out to track out a vanished college student. The character of crime reporter Vidhi Sahani, played by Yami Gautam in the LOST movie, looks uncompromising in her quest for the truth. Her journey shows society's varying aspects, which reinvent the definition of politics, compassion, and treachery.   ",
+      "id": 11
+    },
+    {
+      "Audio Languages": "Hindi",
+      "Subtitles": " English",
+      "Description": "This ZEE5 Original narrates the tale of crime reporter Vidhi, who is out to find a missing college student. Her quest reveals the many layers of society that redefine politics, love, and betrayal.",
+      "Cast": " [   ,Neelu Dogra,Pooja Dargan, Tariq Khan,Ahmer Haider] ",
+      "Derector": "Rahat Kazmi",
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5160058/portrait/1920x770d730898c9c5948c587fd624c83a76f7f.jpg",
+      "Details": " In this ZEE5 Original, crime reporter Vidhi sets out to track out a vanished college student. The character of crime reporter Vidhi Sahani, played by Yami Gautam in the LOST movie, looks uncompromising in her quest for the truth. Her journey shows society's varying aspects, which reinvent the definition of politics, compassion, and treachery.   ",
+      "id": 12
+    },
+    {
+      "Audio Languages": "Hindi",
+      "Subtitles": " English",
+      "Description": "This ZEE5 Original narrates the tale of crime reporter Vidhi, who is out to find a missing college student. Her quest reveals the many layers of society that redefine politics, love, and betrayal.",
+      "Cast": " [   ,Neelu Dogra,Pooja Dargan, Tariq Khan,Ahmer Haider] ",
+      "Derector": "Rahat Kazmi",
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5133899/portrait/1920x77034bef1c6c7524c039f2baf7025a50cd5.jpg",
+      "Details": " In this ZEE5 Original, crime reporter Vidhi sets out to track out a vanished college student. The character of crime reporter Vidhi Sahani, played by Yami Gautam in the LOST movie, looks uncompromising in her quest for the truth. Her journey shows society's varying aspects, which reinvent the definition of politics, compassion, and treachery.   ",
+      "id": 13
+    },
+    {
+      "Audio Languages": "Hindi",
+      "Subtitles": " English",
+      "Description": "This ZEE5 Original narrates the tale of crime reporter Vidhi, who is out to find a missing college student. Her quest reveals the many layers of society that redefine politics, love, and betrayal.",
+      "Cast": " [   ,Neelu Dogra,Pooja Dargan, Tariq Khan,Ahmer Haider] ",
+      "Derector": "Rahat Kazmi",
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5133899/portrait/1920x77034bef1c6c7524c039f2baf7025a50cd5.jpg",
+      "Details": " In this ZEE5 Original, crime reporter Vidhi sets out to track out a vanished college student. The character of crime reporter Vidhi Sahani, played by Yami Gautam in the LOST movie, looks uncompromising in her quest for the truth. Her journey shows society's varying aspects, which reinvent the definition of politics, compassion, and treachery.   ",
+      "id": 14
+    },
+    {
+      "Audio Languages": "Hindi",
+      "Subtitles": " English",
+      "Description": "This ZEE5 Original narrates the tale of crime reporter Vidhi, who is out to find a missing college student. Her quest reveals the many layers of society that redefine politics, love, and betrayal.",
+      "Cast": " [   ,Neelu Dogra,Pooja Dargan, Tariq Khan,Ahmer Haider] ",
+      "Derector": "Rahat Kazmi",
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z524512/portrait/1920x77055200d71f10e40bc8296b1cadfffe1bd.jpg",
+      "Details": " In this ZEE5 Original, crime reporter Vidhi sets out to track out a vanished college student. The character of crime reporter Vidhi Sahani, played by Yami Gautam in the LOST movie, looks uncompromising in her quest for the truth. Her journey shows society's varying aspects, which reinvent the definition of politics, compassion, and treachery.   ",
+      "id": 15
+    },
+    {
+      "Audio Languages": "Hindi",
+      "Subtitles": " English",
+      "Description": "This ZEE5 Original narrates the tale of crime reporter Vidhi, who is out to find a missing college student. Her quest reveals the many layers of society that redefine politics, love, and betrayal.",
+      "Cast": " [   ,Neelu Dogra,Pooja Dargan, Tariq Khan,Ahmer Haider] ",
+      "Derector": "Rahat Kazmi",
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z591355/portrait/1920x770f3097dc7869e4e838d905ca8f823e7f0.jpg",
+      "Details": " In this ZEE5 Original, crime reporter Vidhi sets out to track out a vanished college student. The character of crime reporter Vidhi Sahani, played by Yami Gautam in the LOST movie, looks uncompromising in her quest for the truth. Her journey shows society's varying aspects, which reinvent the definition of politics, compassion, and treachery.   ",
+      "id": 16
+    },
+    {
+      "Audio Languages": "Hindi",
+      "Subtitles": " English",
+      "Description": "This ZEE5 Original narrates the tale of crime reporter Vidhi, who is out to find a missing college student. Her quest reveals the many layers of society that redefine politics, love, and betrayal.",
+      "Cast": " [   ,Neelu Dogra,Pooja Dargan, Tariq Khan,Ahmer Haider] ",
+      "Derector": "Rahat Kazmi",
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z564558/portrait/1920x770ed63b573909f448f82eb19e273b61714.jpg",
+      "Details": " In this ZEE5 Original, crime reporter Vidhi sets out to track out a vanished college student. The character of crime reporter Vidhi Sahani, played by Yami Gautam in the LOST movie, looks uncompromising in her quest for the truth. Her journey shows society's varying aspects, which reinvent the definition of politics, compassion, and treachery.   ",
+      "id": 17
+    },
+    {
+      "Audio Languages": "Hindi",
+      "Subtitles": " English",
+      "Description": "This ZEE5 Original narrates the tale of crime reporter Vidhi, who is out to find a missing college student. Her quest reveals the many layers of society that redefine politics, love, and betrayal.",
+      "Cast": " [   ,Neelu Dogra,Pooja Dargan, Tariq Khan,Ahmer Haider] ",
+      "Derector": "Rahat Kazmi",
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5186003/portrait/1920x77007b84ce762374be086198cdfab2759d1.jpg",
+      "Details": " In this ZEE5 Original, crime reporter Vidhi sets out to track out a vanished college student. The character of crime reporter Vidhi Sahani, played by Yami Gautam in the LOST movie, looks uncompromising in her quest for the truth. Her journey shows society's varying aspects, which reinvent the definition of politics, compassion, and treachery.   ",
+      "id": 18
+    },
+    {
+      "Audio Languages": "Hindi",
+      "Subtitles": " English",
+      "Description": "This ZEE5 Original narrates the tale of crime reporter Vidhi, who is out to find a missing college student. Her quest reveals the many layers of society that redefine politics, love, and betrayal.",
+      "Cast": " [   ,Neelu Dogra,Pooja Dargan, Tariq Khan,Ahmer Haider] ",
+      "Derector": "Rahat Kazmi",
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5181566/portrait/1920x7700882fd5f305a4ac3b3f02ea41f347660.jpg",
+      "Details": " In this ZEE5 Original, crime reporter Vidhi sets out to track out a vanished college student. The character of crime reporter Vidhi Sahani, played by Yami Gautam in the LOST movie, looks uncompromising in her quest for the truth. Her journey shows society's varying aspects, which reinvent the definition of politics, compassion, and treachery.   ",
+      "id": 19
+    },
+    {
+      "Audio Languages": "Hindi",
+      "Subtitles": " English",
+      "Description": "This ZEE5 Original narrates the tale of crime reporter Vidhi, who is out to find a missing college student. Her quest reveals the many layers of society that redefine politics, love, and betrayal.",
+      "Cast": " [   ,Neelu Dogra,Pooja Dargan, Tariq Khan,Ahmer Haider] ",
+      "Derector": "Rahat Kazmi",
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z513111/portrait/1920x770dfed6f74d7b24186a5739b423199c08e.jpg",
+      "Details": " In this ZEE5 Original, crime reporter Vidhi sets out to track out a vanished college student. The character of crime reporter Vidhi Sahani, played by Yami Gautam in the LOST movie, looks uncompromising in her quest for the truth. Her journey shows society's varying aspects, which reinvent the definition of politics, compassion, and treachery.   ",
+      "id": 20
+    }
+  ],
+  "top-10-web-series": [
+    {
+      "Audio Languages": "Hindi",
+      "Subtitles": " English",
+      "Description": "This ZEE5 Original narrates the tale of crime reporter Vidhi, who is out to find a missing college student. Her quest reveals the many layers of society that redefine politics, love, and betrayal.",
+      "Cast": " [   ,Neelu Dogra,Pooja Dargan, Tariq Khan,Ahmer Haider] ",
+      "Derector": "Rahat Kazmi",
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-4z5327682/portrait/1920x770427b40f6bd2e9412d81adb7c43ea98ccd.jpg",
+      "Details": " In this ZEE5 Original, crime reporter Vidhi sets out to track out a vanished college student. The character of crime reporter Vidhi Sahani, played by Yami Gautam in the LOST movie, looks uncompromising in her quest for the truth. Her journey shows society's varying aspects, which reinvent the definition of politics, compassion, and treachery.   ",
+      "id": 1
+    },
+    {
+      "Audio Languages": "Hindi",
+      "Subtitles": " English",
+      "Description": "This ZEE5 Original narrates the tale of crime reporter Vidhi, who is out to find a missing college student. Her quest reveals the many layers of society that redefine politics, love, and betrayal.",
+      "Cast": " [   ,Neelu Dogra,Pooja Dargan, Tariq Khan,Ahmer Haider] ",
+      "Derector": "Rahat Kazmi",
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-4z5311140/portrait/1920x7702288c19af62b45bca7b65d8f277922cd.jpg",
+      "Details": " In this ZEE5 Original, crime reporter Vidhi sets out to track out a vanished college student. The character of crime reporter Vidhi Sahani, played by Yami Gautam in the LOST movie, looks uncompromising in her quest for the truth. Her journey shows society's varying aspects, which reinvent the definition of politics, compassion, and treachery.   ",
+      "id": 2
+    },
+    {
+      "Audio Languages": "Hindi",
+      "Subtitles": " English",
+      "Description": "This ZEE5 Original narrates the tale of crime reporter Vidhi, who is out to find a missing college student. Her quest reveals the many layers of society that redefine politics, love, and betrayal.",
+      "Cast": " [   ,Neelu Dogra,Pooja Dargan, Tariq Khan,Ahmer Haider] ",
+      "Derector": "Rahat Kazmi",
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-4z5310699/portrait/1920x77053a13959c7fc419a87153ffdc5676c5e.jpg",
+      "Details": " In this ZEE5 Original, crime reporter Vidhi sets out to track out a vanished college student. The character of crime reporter Vidhi Sahani, played by Yami Gautam in the LOST movie, looks uncompromising in her quest for the truth. Her journey shows society's varying aspects, which reinvent the definition of politics, compassion, and treachery.   ",
+      "id": 3
+    },
+    {
+      "Audio Languages": "Hindi",
+      "Subtitles": " English",
+      "Description": "This ZEE5 Original narrates the tale of crime reporter Vidhi, who is out to find a missing college student. Her quest reveals the many layers of society that redefine politics, love, and betrayal.",
+      "Cast": " [   ,Neelu Dogra,Pooja Dargan, Tariq Khan,Ahmer Haider] ",
+      "Derector": "Rahat Kazmi",
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-4z5289752/portrait/ayaliplatformcreatives11920x770d3c49874d4c744ada10981c2d331574a.jpg",
+      "Details": " In this ZEE5 Original, crime reporter Vidhi sets out to track out a vanished college student. The character of crime reporter Vidhi Sahani, played by Yami Gautam in the LOST movie, looks uncompromising in her quest for the truth. Her journey shows society's varying aspects, which reinvent the definition of politics, compassion, and treachery.   ",
+      "id": 4
+    },
+    {
+      "Audio Languages": "Hindi",
+      "Subtitles": " English",
+      "Description": "This ZEE5 Original narrates the tale of crime reporter Vidhi, who is out to find a missing college student. Her quest reveals the many layers of society that redefine politics, love, and betrayal.",
+      "Cast": " [   ,Neelu Dogra,Pooja Dargan, Tariq Khan,Ahmer Haider] ",
+      "Derector": "Rahat Kazmi",
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-4z5281686/portrait/1920x7704af47d1e734948e381572ad1b52a4ecb4df6c4abb1824eac8df67df6ee440910.jpg",
+      "Details": " In this ZEE5 Original, crime reporter Vidhi sets out to track out a vanished college student. The character of crime reporter Vidhi Sahani, played by Yami Gautam in the LOST movie, looks uncompromising in her quest for the truth. Her journey shows society's varying aspects, which reinvent the definition of politics, compassion, and treachery.   ",
+      "id": 5
+    },
+    {
+      "Audio Languages": "Hindi",
+      "Subtitles": " English",
+      "Description": "This ZEE5 Original narrates the tale of crime reporter Vidhi, who is out to find a missing college student. Her quest reveals the many layers of society that redefine politics, love, and betrayal.",
+      "Cast": " [   ,Neelu Dogra,Pooja Dargan, Tariq Khan,Ahmer Haider] ",
+      "Derector": "Rahat Kazmi",
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-4z5199975/portrait/1920x770f545e44b4f784495a8845760cd4928dd16a9937a4ca94efd8688698bcbaa64be.jpg",
+      "Details": " In this ZEE5 Original, crime reporter Vidhi sets out to track out a vanished college student. The character of crime reporter Vidhi Sahani, played by Yami Gautam in the LOST movie, looks uncompromising in her quest for the truth. Her journey shows society's varying aspects, which reinvent the definition of politics, compassion, and treachery.   ",
+      "id": 6
+    },
+    {
+      "Audio Languages": "Hindi",
+      "Subtitles": " English",
+      "Description": "This ZEE5 Original narrates the tale of crime reporter Vidhi, who is out to find a missing college student. Her quest reveals the many layers of society that redefine politics, love, and betrayal.",
+      "Cast": " [   ,Neelu Dogra,Pooja Dargan, Tariq Khan,Ahmer Haider] ",
+      "Derector": "Rahat Kazmi",
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-4z5322929/portrait/1920x770558ce47c926b433283eeb6009b46e05e.jpg",
+      "Details": " In this ZEE5 Original, crime reporter Vidhi sets out to track out a vanished college student. The character of crime reporter Vidhi Sahani, played by Yami Gautam in the LOST movie, looks uncompromising in her quest for the truth. Her journey shows society's varying aspects, which reinvent the definition of politics, compassion, and treachery.   ",
+      "id": 7
+    },
+    {
+      "Audio Languages": "Hindi",
+      "Subtitles": " English",
+      "Description": "This ZEE5 Original narrates the tale of crime reporter Vidhi, who is out to find a missing college student. Her quest reveals the many layers of society that redefine politics, love, and betrayal.",
+      "Cast": " [   ,Neelu Dogra,Pooja Dargan, Tariq Khan,Ahmer Haider] ",
+      "Derector": "Rahat Kazmi",
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-4z5309801/portrait/1920x770f9159299fcc946999183be6452e3bbe0.jpg",
+      "Details": " In this ZEE5 Original, crime reporter Vidhi sets out to track out a vanished college student. The character of crime reporter Vidhi Sahani, played by Yami Gautam in the LOST movie, looks uncompromising in her quest for the truth. Her journey shows society's varying aspects, which reinvent the definition of politics, compassion, and treachery.   ",
+      "id": 8
+    },
+    {
+      "Audio Languages": "Hindi",
+      "Subtitles": " English",
+      "Description": "This ZEE5 Original narrates the tale of crime reporter Vidhi, who is out to find a missing college student. Her quest reveals the many layers of society that redefine politics, love, and betrayal.",
+      "Cast": " [   ,Neelu Dogra,Pooja Dargan, Tariq Khan,Ahmer Haider] ",
+      "Derector": "Rahat Kazmi",
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-4z5281641/portrait/1920x77042a32e17a80a494698aa371b7eac1a30.jpg",
+      "Details": " In this ZEE5 Original, crime reporter Vidhi sets out to track out a vanished college student. The character of crime reporter Vidhi Sahani, played by Yami Gautam in the LOST movie, looks uncompromising in her quest for the truth. Her journey shows society's varying aspects, which reinvent the definition of politics, compassion, and treachery.   ",
+      "id": 9
+    },
+    {
+      "Audio Languages": "Hindi",
+      "Subtitles": " English",
+      "Description": "This ZEE5 Original narrates the tale of crime reporter Vidhi, who is out to find a missing college student. Her quest reveals the many layers of society that redefine politics, love, and betrayal.",
+      "Cast": " [   ,Neelu Dogra,Pooja Dargan, Tariq Khan,Ahmer Haider] ",
+      "Derector": "Rahat Kazmi",
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-3348/portrait/1920x770acd21309a3cc4de885047d4069ecd00d.jpg",
+      "Details": " In this ZEE5 Original, crime reporter Vidhi sets out to track out a vanished college student. The character of crime reporter Vidhi Sahani, played by Yami Gautam in the LOST movie, looks uncompromising in her quest for the truth. Her journey shows society's varying aspects, which reinvent the definition of politics, compassion, and treachery.   ",
+      "id": 10
+    }
+  ],
+  "popular-movies": [
+    {
+      "Audio Languages": "Hindi",
+      "Subtitles": " English",
+      "Description": "This ZEE5 Original narrates the tale of crime reporter Vidhi, who is out to find a missing college student. Her quest reveals the many layers of society that redefine politics, love, and betrayal.",
+      "Cast": " [   ,Neelu Dogra,Pooja Dargan, Tariq Khan,Ahmer Haider] ",
+      "Derector": "Rahat Kazmi",
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5228525/portrait/1920x77069dfde7f955d4ef69e73c3b682aa636baf7e693843c94bca830df12a92375a8b.jpg",
+      "Details": " In this ZEE5 Original, crime reporter Vidhi sets out to track out a vanished college student. The character of crime reporter Vidhi Sahani, played by Yami Gautam in the LOST movie, looks uncompromising in her quest for the truth. Her journey shows society's varying aspects, which reinvent the definition of politics, compassion, and treachery.   ",
+      "id": 1
+    },
+    {
+      "Audio Languages": "Hindi",
+      "Subtitles": " English",
+      "Description": "This ZEE5 Original narrates the tale of crime reporter Vidhi, who is out to find a missing college student. Her quest reveals the many layers of society that redefine politics, love, and betrayal.",
+      "Cast": " [   ,Neelu Dogra,Pooja Dargan, Tariq Khan,Ahmer Haider] ",
+      "Derector": "Rahat Kazmi",
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5228525/portrait/1920x77069dfde7f955d4ef69e73c3b682aa636baf7e693843c94bca830df12a92375a8b.jpg",
+      "Details": " In this ZEE5 Original, crime reporter Vidhi sets out to track out a vanished college student. The character of crime reporter Vidhi Sahani, played by Yami Gautam in the LOST movie, looks uncompromising in her quest for the truth. Her journey shows society's varying aspects, which reinvent the definition of politics, compassion, and treachery.   ",
+      "id": 2
+    },
+    {
+      "Audio Languages": "Hindi",
+      "Subtitles": " English",
+      "Description": "This ZEE5 Original narrates the tale of crime reporter Vidhi, who is out to find a missing college student. Her quest reveals the many layers of society that redefine politics, love, and betrayal.",
+      "Cast": " [   ,Neelu Dogra,Pooja Dargan, Tariq Khan,Ahmer Haider] ",
+      "Derector": "Rahat Kazmi",
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5301299/portrait/1920x770f5c57d4759124df5bbf870a68dfc6fb5.jpg",
+      "Details": " In this ZEE5 Original, crime reporter Vidhi sets out to track out a vanished college student. The character of crime reporter Vidhi Sahani, played by Yami Gautam in the LOST movie, looks uncompromising in her quest for the truth. Her journey shows society's varying aspects, which reinvent the definition of politics, compassion, and treachery.   ",
+      "id": 3
+    },
+    {
+      "Audio Languages": "Hindi",
+      "Subtitles": " English",
+      "Description": "This ZEE5 Original narrates the tale of crime reporter Vidhi, who is out to find a missing college student. Her quest reveals the many layers of society that redefine politics, love, and betrayal.",
+      "Cast": " [   ,Neelu Dogra,Pooja Dargan, Tariq Khan,Ahmer Haider] ",
+      "Derector": "Rahat Kazmi",
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5250012/portrait/1920x7702e2ba8da340346f9b2256075cd4a39f2.jpg",
+      "Details": " In this ZEE5 Original, crime reporter Vidhi sets out to track out a vanished college student. The character of crime reporter Vidhi Sahani, played by Yami Gautam in the LOST movie, looks uncompromising in her quest for the truth. Her journey shows society's varying aspects, which reinvent the definition of politics, compassion, and treachery.   ",
+      "id": 4
+    },
+    {
+      "Audio Languages": "Hindi",
+      "Subtitles": " English",
+      "Description": "This ZEE5 Original narrates the tale of crime reporter Vidhi, who is out to find a missing college student. Her quest reveals the many layers of society that redefine politics, love, and betrayal.",
+      "Cast": " [   ,Neelu Dogra,Pooja Dargan, Tariq Khan,Ahmer Haider] ",
+      "Derector": "Rahat Kazmi",
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5133458/portrait/1920x7705e3a6b40432b4462af572d54a80e9e11.jpg",
+      "Details": " In this ZEE5 Original, crime reporter Vidhi sets out to track out a vanished college student. The character of crime reporter Vidhi Sahani, played by Yami Gautam in the LOST movie, looks uncompromising in her quest for the truth. Her journey shows society's varying aspects, which reinvent the definition of politics, compassion, and treachery.   ",
+      "id": 5
+    },
+    {
+      "Audio Languages": "Hindi",
+      "Subtitles": " English",
+      "Description": "This ZEE5 Original narrates the tale of crime reporter Vidhi, who is out to find a missing college student. Her quest reveals the many layers of society that redefine politics, love, and betrayal.",
+      "Cast": " [   ,Neelu Dogra,Pooja Dargan, Tariq Khan,Ahmer Haider] ",
+      "Derector": "Rahat Kazmi",
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-33204/portrait/1920x770eb95d00347474d48a4307809cedc50a0f79046ee222f44e7b981d97c611ce977.jpg",
+      "Details": " In this ZEE5 Original, crime reporter Vidhi sets out to track out a vanished college student. The character of crime reporter Vidhi Sahani, played by Yami Gautam in the LOST movie, looks uncompromising in her quest for the truth. Her journey shows society's varying aspects, which reinvent the definition of politics, compassion, and treachery.   ",
+      "id": 6
+    },
+    {
+      "Audio Languages": "Hindi",
+      "Subtitles": " English",
+      "Description": "This ZEE5 Original narrates the tale of crime reporter Vidhi, who is out to find a missing college student. Her quest reveals the many layers of society that redefine politics, love, and betrayal.",
+      "Cast": " [   ,Neelu Dogra,Pooja Dargan, Tariq Khan,Ahmer Haider] ",
+      "Derector": "Rahat Kazmi",
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-movie_1511761297/portrait/1920x770580834ad70b34512ba4250d277e68313.jpg",
+      "Details": " In this ZEE5 Original, crime reporter Vidhi sets out to track out a vanished college student. The character of crime reporter Vidhi Sahani, played by Yami Gautam in the LOST movie, looks uncompromising in her quest for the truth. Her journey shows society's varying aspects, which reinvent the definition of politics, compassion, and treachery.   ",
+      "id": 7
+    },
+    {
+      "Audio Languages": "Hindi",
+      "Subtitles": " English",
+      "Description": "This ZEE5 Original narrates the tale of crime reporter Vidhi, who is out to find a missing college student. Her quest reveals the many layers of society that redefine politics, love, and betrayal.",
+      "Cast": " [   ,Neelu Dogra,Pooja Dargan, Tariq Khan,Ahmer Haider] ",
+      "Derector": "Rahat Kazmi",
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5246147/portrait/1920x770436ead89a3c94046a72fa9f78dc4ba53.jpg",
+      "Details": " In this ZEE5 Original, crime reporter Vidhi sets out to track out a vanished college student. The character of crime reporter Vidhi Sahani, played by Yami Gautam in the LOST movie, looks uncompromising in her quest for the truth. Her journey shows society's varying aspects, which reinvent the definition of politics, compassion, and treachery.   ",
+      "id": 8
+    },
+    {
+      "Audio Languages": "Hindi",
+      "Subtitles": " English",
+      "Description": "This ZEE5 Original narrates the tale of crime reporter Vidhi, who is out to find a missing college student. Her quest reveals the many layers of society that redefine politics, love, and betrayal.",
+      "Cast": " [   ,Neelu Dogra,Pooja Dargan, Tariq Khan,Ahmer Haider] ",
+      "Derector": "Rahat Kazmi",
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5206274/portrait/1920x770485283887ce04c66a91f3e5dc0e20747.jpg",
+      "Details": " In this ZEE5 Original, crime reporter Vidhi sets out to track out a vanished college student. The character of crime reporter Vidhi Sahani, played by Yami Gautam in the LOST movie, looks uncompromising in her quest for the truth. Her journey shows society's varying aspects, which reinvent the definition of politics, compassion, and treachery.   ",
+      "id": 9
+    },
+    {
+      "Audio Languages": "Hindi",
+      "Subtitles": " English",
+      "Description": "This ZEE5 Original narrates the tale of crime reporter Vidhi, who is out to find a missing college student. Her quest reveals the many layers of society that redefine politics, love, and betrayal.",
+      "Cast": " [   ,Neelu Dogra,Pooja Dargan, Tariq Khan,Ahmer Haider] ",
+      "Derector": "Rahat Kazmi",
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5295439/portrait/1920x77085ff27349bb94ec692c9ab243b6cbf68.jpg",
+      "Details": " In this ZEE5 Original, crime reporter Vidhi sets out to track out a vanished college student. The character of crime reporter Vidhi Sahani, played by Yami Gautam in the LOST movie, looks uncompromising in her quest for the truth. Her journey shows society's varying aspects, which reinvent the definition of politics, compassion, and treachery.   ",
+      "id": 10
+    },
+    {
+      "Audio Languages": "Hindi",
+      "Subtitles": " English",
+      "Description": "This ZEE5 Original narrates the tale of crime reporter Vidhi, who is out to find a missing college student. Her quest reveals the many layers of society that redefine politics, love, and betrayal.",
+      "Cast": " [   ,Neelu Dogra,Pooja Dargan, Tariq Khan,Ahmer Haider] ",
+      "Derector": "Rahat Kazmi",
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z595840/portrait/1920x7705d9c7a86295d4f268cd4c7deb387d9b8.jpg",
+      "Details": " In this ZEE5 Original, crime reporter Vidhi sets out to track out a vanished college student. The character of crime reporter Vidhi Sahani, played by Yami Gautam in the LOST movie, looks uncompromising in her quest for the truth. Her journey shows society's varying aspects, which reinvent the definition of politics, compassion, and treachery.   ",
+      "id": 11
+    },
+    {
+      "Audio Languages": "Hindi",
+      "Subtitles": " English",
+      "Description": "This ZEE5 Original narrates the tale of crime reporter Vidhi, who is out to find a missing college student. Her quest reveals the many layers of society that redefine politics, love, and betrayal.",
+      "Cast": " [   ,Neelu Dogra,Pooja Dargan, Tariq Khan,Ahmer Haider] ",
+      "Derector": "Rahat Kazmi",
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5323027/portrait/1920x770fa5137dc5a86440da831630a7b36bfce.jpg",
+      "Details": " In this ZEE5 Original, crime reporter Vidhi sets out to track out a vanished college student. The character of crime reporter Vidhi Sahani, played by Yami Gautam in the LOST movie, looks uncompromising in her quest for the truth. Her journey shows society's varying aspects, which reinvent the definition of politics, compassion, and treachery.   ",
+      "id": 12
+    },
+    {
+      "Audio Languages": "Hindi",
+      "Subtitles": " English",
+      "Description": "This ZEE5 Original narrates the tale of crime reporter Vidhi, who is out to find a missing college student. Her quest reveals the many layers of society that redefine politics, love, and betrayal.",
+      "Cast": " [   ,Neelu Dogra,Pooja Dargan, Tariq Khan,Ahmer Haider] ",
+      "Derector": "Rahat Kazmi",
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-369273/portrait/1920x7706dbcd377e0ba4e40b8b4533066e64b791b570aed8b7047a6b8593ffac10e0ce9.jpg",
+      "Details": " In this ZEE5 Original, crime reporter Vidhi sets out to track out a vanished college student. The character of crime reporter Vidhi Sahani, played by Yami Gautam in the LOST movie, looks uncompromising in her quest for the truth. Her journey shows society's varying aspects, which reinvent the definition of politics, compassion, and treachery.   ",
+      "id": 13
+    },
+    {
+      "Audio Languages": "Hindi",
+      "Subtitles": " English",
+      "Description": "This ZEE5 Original narrates the tale of crime reporter Vidhi, who is out to find a missing college student. Her quest reveals the many layers of society that redefine politics, love, and betrayal.",
+      "Cast": " [   ,Neelu Dogra,Pooja Dargan, Tariq Khan,Ahmer Haider] ",
+      "Derector": "Rahat Kazmi",
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-369273/portrait/1920x7706dbcd377e0ba4e40b8b4533066e64b791b570aed8b7047a6b8593ffac10e0ce9.jpg",
+      "Details": " In this ZEE5 Original, crime reporter Vidhi sets out to track out a vanished college student. The character of crime reporter Vidhi Sahani, played by Yami Gautam in the LOST movie, looks uncompromising in her quest for the truth. Her journey shows society's varying aspects, which reinvent the definition of politics, compassion, and treachery.   ",
+      "id": 14
+    },
+    {
+      "Audio Languages": "Hindi",
+      "Subtitles": " English",
+      "Description": "This ZEE5 Original narrates the tale of crime reporter Vidhi, who is out to find a missing college student. Her quest reveals the many layers of society that redefine politics, love, and betrayal.",
+      "Cast": " [   ,Neelu Dogra,Pooja Dargan, Tariq Khan,Ahmer Haider] ",
+      "Derector": "Rahat Kazmi",
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5326731/portrait/1920x7703e4538fc4fa8454b93f54ac1957833f0.jpg",
+      "Details": " In this ZEE5 Original, crime reporter Vidhi sets out to track out a vanished college student. The character of crime reporter Vidhi Sahani, played by Yami Gautam in the LOST movie, looks uncompromising in her quest for the truth. Her journey shows society's varying aspects, which reinvent the definition of politics, compassion, and treachery.   ",
+      "id": 15
+    },
+    {
+      "Audio Languages": "Hindi",
+      "Subtitles": " English",
+      "Description": "This ZEE5 Original narrates the tale of crime reporter Vidhi, who is out to find a missing college student. Her quest reveals the many layers of society that redefine politics, love, and betrayal.",
+      "Cast": " [   ,Neelu Dogra,Pooja Dargan, Tariq Khan,Ahmer Haider] ",
+      "Derector": "Rahat Kazmi",
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5250530/portrait/1920x77008ce47f0848b4ba2b8e6be16e4dc1730.jpg",
+      "Details": " In this ZEE5 Original, crime reporter Vidhi sets out to track out a vanished college student. The character of crime reporter Vidhi Sahani, played by Yami Gautam in the LOST movie, looks uncompromising in her quest for the truth. Her journey shows society's varying aspects, which reinvent the definition of politics, compassion, and treachery.   ",
+      "id": 16
+    },
+    {
+      "Audio Languages": "Hindi",
+      "Subtitles": " English",
+      "Description": "This ZEE5 Original narrates the tale of crime reporter Vidhi, who is out to find a missing college student. Her quest reveals the many layers of society that redefine politics, love, and betrayal.",
+      "Cast": " [   ,Neelu Dogra,Pooja Dargan, Tariq Khan,Ahmer Haider] ",
+      "Derector": "Rahat Kazmi",
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-49971/portrait/badnaamgali1921562523827.jpg",
+      "Details": " In this ZEE5 Original, crime reporter Vidhi sets out to track out a vanished college student. The character of crime reporter Vidhi Sahani, played by Yami Gautam in the LOST movie, looks uncompromising in her quest for the truth. Her journey shows society's varying aspects, which reinvent the definition of politics, compassion, and treachery.   ",
+      "id": 17
+    },
+    {
+      "Audio Languages": "Hindi",
+      "Subtitles": " English",
+      "Description": "This ZEE5 Original narrates the tale of crime reporter Vidhi, who is out to find a missing college student. Her quest reveals the many layers of society that redefine politics, love, and betrayal.",
+      "Cast": " [   ,Neelu Dogra,Pooja Dargan, Tariq Khan,Ahmer Haider] ",
+      "Derector": "Rahat Kazmi",
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5133622/portrait/1920x770feafd237d59941949fdbaf632632ac49.jpg",
+      "Details": " In this ZEE5 Original, crime reporter Vidhi sets out to track out a vanished college student. The character of crime reporter Vidhi Sahani, played by Yami Gautam in the LOST movie, looks uncompromising in her quest for the truth. Her journey shows society's varying aspects, which reinvent the definition of politics, compassion, and treachery.   ",
+      "id": 18
+    },
+    {
+      "Audio Languages": "Hindi",
+      "Subtitles": " English",
+      "Description": "This ZEE5 Original narrates the tale of crime reporter Vidhi, who is out to find a missing college student. Her quest reveals the many layers of society that redefine politics, love, and betrayal.",
+      "Cast": " [   ,Neelu Dogra,Pooja Dargan, Tariq Khan,Ahmer Haider] ",
+      "Derector": "Rahat Kazmi",
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z513117/portrait/1920x770478c174d17894ab79a63d72e6b02a830de9355531fe64e6c9b054018cf7050cf.jpg",
+      "Details": " In this ZEE5 Original, crime reporter Vidhi sets out to track out a vanished college student. The character of crime reporter Vidhi Sahani, played by Yami Gautam in the LOST movie, looks uncompromising in her quest for the truth. Her journey shows society's varying aspects, which reinvent the definition of politics, compassion, and treachery.   ",
+      "id": 19
+    },
+    {
+      "Audio Languages": "Hindi",
+      "Subtitles": " English",
+      "Description": "This ZEE5 Original narrates the tale of crime reporter Vidhi, who is out to find a missing college student. Her quest reveals the many layers of society that redefine politics, love, and betrayal.",
+      "Cast": " [   ,Neelu Dogra,Pooja Dargan, Tariq Khan,Ahmer Haider] ",
+      "Derector": "Rahat Kazmi",
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z562203/portrait/1920x7706847e0d919d448328eeb2f88b259d73a0fd8743b1e984c9782e72e68355cf49e.jpg",
+      "Details": " In this ZEE5 Original, crime reporter Vidhi sets out to track out a vanished college student. The character of crime reporter Vidhi Sahani, played by Yami Gautam in the LOST movie, looks uncompromising in her quest for the truth. Her journey shows society's varying aspects, which reinvent the definition of politics, compassion, and treachery.   ",
+      "id": 20
+    }
+  ],
+  "movie-marathon": [
+    {
+      "Audio Languages": "Hindi",
+      "Subtitles": " English",
+      "Description": "This ZEE5 Original narrates the tale of crime reporter Vidhi, who is out to find a missing college student. Her quest reveals the many layers of society that redefine politics, love, and betrayal.",
+      "Cast": " [   ,Neelu Dogra,Pooja Dargan, Tariq Khan,Ahmer Haider] ",
+      "Derector": "Rahat Kazmi",
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-7599/portrait/tigers1920x770206909998.jpg",
+      "Details": " In this ZEE5 Original, crime reporter Vidhi sets out to track out a vanished college student. The character of crime reporter Vidhi Sahani, played by Yami Gautam in the LOST movie, looks uncompromising in her quest for the truth. Her journey shows society's varying aspects, which reinvent the definition of politics, compassion, and treachery.   ",
+      "id": 1
+    },
+    {
+      "Audio Languages": "Hindi",
+      "Subtitles": " English",
+      "Description": "This ZEE5 Original narrates the tale of crime reporter Vidhi, who is out to find a missing college student. Her quest reveals the many layers of society that redefine politics, love, and betrayal.",
+      "Cast": " [   ,Neelu Dogra,Pooja Dargan, Tariq Khan,Ahmer Haider] ",
+      "Derector": "Rahat Kazmi",
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-345651/portrait/1920x770cbb0423c13c84471a2562696cb55bd79.jpg",
+      "Details": " In this ZEE5 Original, crime reporter Vidhi sets out to track out a vanished college student. The character of crime reporter Vidhi Sahani, played by Yami Gautam in the LOST movie, looks uncompromising in her quest for the truth. Her journey shows society's varying aspects, which reinvent the definition of politics, compassion, and treachery.   ",
+      "id": 2
+    },
+    {
+      "Audio Languages": "Hindi",
+      "Subtitles": " English",
+      "Description": "This ZEE5 Original narrates the tale of crime reporter Vidhi, who is out to find a missing college student. Her quest reveals the many layers of society that redefine politics, love, and betrayal.",
+      "Cast": " [   ,Neelu Dogra,Pooja Dargan, Tariq Khan,Ahmer Haider] ",
+      "Derector": "Rahat Kazmi",
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-behenhogiteri/portrait/1920x770e98f8cd3796643e7a8f97ad2b219a5e5.jpg",
+      "Details": " In this ZEE5 Original, crime reporter Vidhi sets out to track out a vanished college student. The character of crime reporter Vidhi Sahani, played by Yami Gautam in the LOST movie, looks uncompromising in her quest for the truth. Her journey shows society's varying aspects, which reinvent the definition of politics, compassion, and treachery.   ",
+      "id": 3
+    },
+    {
+      "Audio Languages": "Hindi",
+      "Subtitles": " English",
+      "Description": "This ZEE5 Original narrates the tale of crime reporter Vidhi, who is out to find a missing college student. Her quest reveals the many layers of society that redefine politics, love, and betrayal.",
+      "Cast": " [   ,Neelu Dogra,Pooja Dargan, Tariq Khan,Ahmer Haider] ",
+      "Derector": "Rahat Kazmi",
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-2470/portrait/1920x770ade88b51b40345019ac1092fe1855976.jpg",
+      "Details": " In this ZEE5 Original, crime reporter Vidhi sets out to track out a vanished college student. The character of crime reporter Vidhi Sahani, played by Yami Gautam in the LOST movie, looks uncompromising in her quest for the truth. Her journey shows society's varying aspects, which reinvent the definition of politics, compassion, and treachery.   ",
+      "id": 4
+    },
+    {
+      "Audio Languages": "Hindi",
+      "Subtitles": " English",
+      "Description": "This ZEE5 Original narrates the tale of crime reporter Vidhi, who is out to find a missing college student. Her quest reveals the many layers of society that redefine politics, love, and betrayal.",
+      "Cast": " [   ,Neelu Dogra,Pooja Dargan, Tariq Khan,Ahmer Haider] ",
+      "Derector": "Rahat Kazmi",
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-happybhagjayegi/portrait/1920x77050ee34a48864418085213dce5bd81b1e.jpg",
+      "Details": " In this ZEE5 Original, crime reporter Vidhi sets out to track out a vanished college student. The character of crime reporter Vidhi Sahani, played by Yami Gautam in the LOST movie, looks uncompromising in her quest for the truth. Her journey shows society's varying aspects, which reinvent the definition of politics, compassion, and treachery.   ",
+      "id": 5
+    },
+    {
+      "Audio Languages": "Hindi",
+      "Subtitles": " English",
+      "Description": "This ZEE5 Original narrates the tale of crime reporter Vidhi, who is out to find a missing college student. Her quest reveals the many layers of society that redefine politics, love, and betrayal.",
+      "Cast": " [   ,Neelu Dogra,Pooja Dargan, Tariq Khan,Ahmer Haider] ",
+      "Derector": "Rahat Kazmi",
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-149834/portrait/1920x770ee3e71cf332d48cfaf1431292ac727aa.jpg",
+      "Details": " In this ZEE5 Original, crime reporter Vidhi sets out to track out a vanished college student. The character of crime reporter Vidhi Sahani, played by Yami Gautam in the LOST movie, looks uncompromising in her quest for the truth. Her journey shows society's varying aspects, which reinvent the definition of politics, compassion, and treachery.   ",
+      "id": 6
+    },
+    {
+      "Audio Languages": "Hindi",
+      "Subtitles": " English",
+      "Description": "This ZEE5 Original narrates the tale of crime reporter Vidhi, who is out to find a missing college student. Her quest reveals the many layers of society that redefine politics, love, and betrayal.",
+      "Cast": " [   ,Neelu Dogra,Pooja Dargan, Tariq Khan,Ahmer Haider] ",
+      "Derector": "Rahat Kazmi",
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-85174/portrait/0085174incove1439078148.jpg",
+      "Details": " In this ZEE5 Original, crime reporter Vidhi sets out to track out a vanished college student. The character of crime reporter Vidhi Sahani, played by Yami Gautam in the LOST movie, looks uncompromising in her quest for the truth. Her journey shows society's varying aspects, which reinvent the definition of politics, compassion, and treachery.   ",
+      "id": 7
+    },
+    {
+      "Audio Languages": "Hindi",
+      "Subtitles": " English",
+      "Description": "This ZEE5 Original narrates the tale of crime reporter Vidhi, who is out to find a missing college student. Her quest reveals the many layers of society that redefine politics, love, and betrayal.",
+      "Cast": " [   ,Neelu Dogra,Pooja Dargan, Tariq Khan,Ahmer Haider] ",
+      "Derector": "Rahat Kazmi",
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-8372/portrait/1920x77005cb9577910b4c28bd35b1637bf908b4.jpg",
+      "Details": " In this ZEE5 Original, crime reporter Vidhi sets out to track out a vanished college student. The character of crime reporter Vidhi Sahani, played by Yami Gautam in the LOST movie, looks uncompromising in her quest for the truth. Her journey shows society's varying aspects, which reinvent the definition of politics, compassion, and treachery.   ",
+      "id": 8
+    },
+    {
+      "Audio Languages": "Hindi",
+      "Subtitles": " English",
+      "Description": "This ZEE5 Original narrates the tale of crime reporter Vidhi, who is out to find a missing college student. Her quest reveals the many layers of society that redefine politics, love, and betrayal.",
+      "Cast": " [   ,Neelu Dogra,Pooja Dargan, Tariq Khan,Ahmer Haider] ",
+      "Derector": "Rahat Kazmi",
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-2519/portrait/1920x7705d840d88334948ab8a277c71f6810b0a.jpg",
+      "Details": " In this ZEE5 Original, crime reporter Vidhi sets out to track out a vanished college student. The character of crime reporter Vidhi Sahani, played by Yami Gautam in the LOST movie, looks uncompromising in her quest for the truth. Her journey shows society's varying aspects, which reinvent the definition of politics, compassion, and treachery.   ",
+      "id": 9
+    },
+    {
+      "Audio Languages": "Hindi",
+      "Subtitles": " English",
+      "Description": "This ZEE5 Original narrates the tale of crime reporter Vidhi, who is out to find a missing college student. Her quest reveals the many layers of society that redefine politics, love, and betrayal.",
+      "Cast": " [   ,Neelu Dogra,Pooja Dargan, Tariq Khan,Ahmer Haider] ",
+      "Derector": "Rahat Kazmi",
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-movie_2008789836/portrait/1920x77013f6f0a24dbb4e9badb14eb2be629add.jpg",
+      "Details": " In this ZEE5 Original, crime reporter Vidhi sets out to track out a vanished college student. The character of crime reporter Vidhi Sahani, played by Yami Gautam in the LOST movie, looks uncompromising in her quest for the truth. Her journey shows society's varying aspects, which reinvent the definition of politics, compassion, and treachery.   ",
+      "id": 10
+    },
+    {
+      "Audio Languages": "Hindi",
+      "Subtitles": " English",
+      "Description": "This ZEE5 Original narrates the tale of crime reporter Vidhi, who is out to find a missing college student. Her quest reveals the many layers of society that redefine politics, love, and betrayal.",
+      "Cast": " [   ,Neelu Dogra,Pooja Dargan, Tariq Khan,Ahmer Haider] ",
+      "Derector": "Rahat Kazmi",
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-8201/portrait/1920x770ina0e536b7b5ca43e78bde02b3691b562f.jpg",
+      "Details": " In this ZEE5 Original, crime reporter Vidhi sets out to track out a vanished college student. The character of crime reporter Vidhi Sahani, played by Yami Gautam in the LOST movie, looks uncompromising in her quest for the truth. Her journey shows society's varying aspects, which reinvent the definition of politics, compassion, and treachery.   ",
+      "id": 11
+    },
+    {
+      "Audio Languages": "Hindi",
+      "Subtitles": " English",
+      "Description": "This ZEE5 Original narrates the tale of crime reporter Vidhi, who is out to find a missing college student. Her quest reveals the many layers of society that redefine politics, love, and betrayal.",
+      "Cast": " [   ,Neelu Dogra,Pooja Dargan, Tariq Khan,Ahmer Haider] ",
+      "Derector": "Rahat Kazmi",
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-155777/portrait/1920x7703f6a010f94f34f9aa5e2517584062cca.jpg",
+      "Details": " In this ZEE5 Original, crime reporter Vidhi sets out to track out a vanished college student. The character of crime reporter Vidhi Sahani, played by Yami Gautam in the LOST movie, looks uncompromising in her quest for the truth. Her journey shows society's varying aspects, which reinvent the definition of politics, compassion, and treachery.   ",
+      "id": 12
+    },
+    {
+      "Audio Languages": "Hindi",
+      "Subtitles": " English",
+      "Description": "This ZEE5 Original narrates the tale of crime reporter Vidhi, who is out to find a missing college student. Her quest reveals the many layers of society that redefine politics, love, and betrayal.",
+      "Cast": " [   ,Neelu Dogra,Pooja Dargan, Tariq Khan,Ahmer Haider] ",
+      "Derector": "Rahat Kazmi",
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-99302/portrait/1920x7708fe7d23dba9642cfa80c55584bd3b1e0.jpg",
+      "Details": " In this ZEE5 Original, crime reporter Vidhi sets out to track out a vanished college student. The character of crime reporter Vidhi Sahani, played by Yami Gautam in the LOST movie, looks uncompromising in her quest for the truth. Her journey shows society's varying aspects, which reinvent the definition of politics, compassion, and treachery.   ",
+      "id": 13
+    },
+    {
+      "Audio Languages": "Hindi",
+      "Subtitles": " English",
+      "Description": "This ZEE5 Original narrates the tale of crime reporter Vidhi, who is out to find a missing college student. Her quest reveals the many layers of society that redefine politics, love, and betrayal.",
+      "Cast": " [   ,Neelu Dogra,Pooja Dargan, Tariq Khan,Ahmer Haider] ",
+      "Derector": "Rahat Kazmi",
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-2526/portrait/1920x7704fc363644f3b4fadab2aac3007f70e19.jpg",
+      "Details": " In this ZEE5 Original, crime reporter Vidhi sets out to track out a vanished college student. The character of crime reporter Vidhi Sahani, played by Yami Gautam in the LOST movie, looks uncompromising in her quest for the truth. Her journey shows society's varying aspects, which reinvent the definition of politics, compassion, and treachery.   ",
+      "id": 14
+    },
+    {
+      "Audio Languages": "Hindi",
+      "Subtitles": " English",
+      "Description": "This ZEE5 Original narrates the tale of crime reporter Vidhi, who is out to find a missing college student. Her quest reveals the many layers of society that redefine politics, love, and betrayal.",
+      "Cast": " [   ,Neelu Dogra,Pooja Dargan, Tariq Khan,Ahmer Haider] ",
+      "Derector": "Rahat Kazmi",
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5323147/portrait/1920x770d79df09a751242cda5aeaec20e6a1291ee6dc950c1cd49e6845c6e17cb33a64b.jpg",
+      "Details": " In this ZEE5 Original, crime reporter Vidhi sets out to track out a vanished college student. The character of crime reporter Vidhi Sahani, played by Yami Gautam in the LOST movie, looks uncompromising in her quest for the truth. Her journey shows society's varying aspects, which reinvent the definition of politics, compassion, and treachery.   ",
+      "id": 15
+    },
+    {
+      "Audio Languages": "Hindi",
+      "Subtitles": " English",
+      "Description": "This ZEE5 Original narrates the tale of crime reporter Vidhi, who is out to find a missing college student. Her quest reveals the many layers of society that redefine politics, love, and betrayal.",
+      "Cast": " [   ,Neelu Dogra,Pooja Dargan, Tariq Khan,Ahmer Haider] ",
+      "Derector": "Rahat Kazmi",
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-2385/portrait/1920x770e828061879084d7e81b8c83703ab47fc.jpg",
+      "Details": " In this ZEE5 Original, crime reporter Vidhi sets out to track out a vanished college student. The character of crime reporter Vidhi Sahani, played by Yami Gautam in the LOST movie, looks uncompromising in her quest for the truth. Her journey shows society's varying aspects, which reinvent the definition of politics, compassion, and treachery.   ",
+      "id": 16
+    },
+    {
+      "Audio Languages": "Hindi",
+      "Subtitles": " English",
+      "Description": "This ZEE5 Original narrates the tale of crime reporter Vidhi, who is out to find a missing college student. Her quest reveals the many layers of society that redefine politics, love, and betrayal.",
+      "Cast": " [   ,Neelu Dogra,Pooja Dargan, Tariq Khan,Ahmer Haider] ",
+      "Derector": "Rahat Kazmi",
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-7035/portrait/1920x7708b1784aa795c42a6b430f4dcb08947b1.jpg",
+      "Details": " In this ZEE5 Original, crime reporter Vidhi sets out to track out a vanished college student. The character of crime reporter Vidhi Sahani, played by Yami Gautam in the LOST movie, looks uncompromising in her quest for the truth. Her journey shows society's varying aspects, which reinvent the definition of politics, compassion, and treachery.   ",
+      "id": 17
+    },
+    {
+      "Audio Languages": "Hindi",
+      "Subtitles": " English",
+      "Description": "This ZEE5 Original narrates the tale of crime reporter Vidhi, who is out to find a missing college student. Her quest reveals the many layers of society that redefine politics, love, and betrayal.",
+      "Cast": " [   ,Neelu Dogra,Pooja Dargan, Tariq Khan,Ahmer Haider] ",
+      "Derector": "Rahat Kazmi",
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-2521/portrait/1920x77037e371103ca548439221c41e31d42468.jpg",
+      "Details": " In this ZEE5 Original, crime reporter Vidhi sets out to track out a vanished college student. The character of crime reporter Vidhi Sahani, played by Yami Gautam in the LOST movie, looks uncompromising in her quest for the truth. Her journey shows society's varying aspects, which reinvent the definition of politics, compassion, and treachery.   ",
+      "id": 18
+    },
+    {
+      "Audio Languages": "Hindi",
+      "Subtitles": " English",
+      "Description": "This ZEE5 Original narrates the tale of crime reporter Vidhi, who is out to find a missing college student. Her quest reveals the many layers of society that redefine politics, love, and betrayal.",
+      "Cast": " [   ,Neelu Dogra,Pooja Dargan, Tariq Khan,Ahmer Haider] ",
+      "Derector": "Rahat Kazmi",
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-2427/portrait/1920x7702667261a5b854e51951f22e5cf2caf6d.jpg",
+      "Details": " In this ZEE5 Original, crime reporter Vidhi sets out to track out a vanished college student. The character of crime reporter Vidhi Sahani, played by Yami Gautam in the LOST movie, looks uncompromising in her quest for the truth. Her journey shows society's varying aspects, which reinvent the definition of politics, compassion, and treachery.   ",
+      "id": 19
+    },
+    {
+      "Audio Languages": "Hindi",
+      "Subtitles": " English",
+      "Description": "This ZEE5 Original narrates the tale of crime reporter Vidhi, who is out to find a missing college student. Her quest reveals the many layers of society that redefine politics, love, and betrayal.",
+      "Cast": " [   ,Neelu Dogra,Pooja Dargan, Tariq Khan,Ahmer Haider] ",
+      "Derector": "Rahat Kazmi",
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-8264/portrait/1920x7702f60ef90290248bb8eb7022249d6224d.jpg",
+      "Details": " In this ZEE5 Original, crime reporter Vidhi sets out to track out a vanished college student. The character of crime reporter Vidhi Sahani, played by Yami Gautam in the LOST movie, looks uncompromising in her quest for the truth. Her journey shows society's varying aspects, which reinvent the definition of politics, compassion, and treachery.   ",
+      "id": 20
+    }
+  ]
+}
