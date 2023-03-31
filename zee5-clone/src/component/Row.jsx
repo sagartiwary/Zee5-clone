@@ -2,19 +2,10 @@ import React from "react";
 import { useState, useEffect, useContext } from "react";
 import "react-multi-carousel/lib/styles.css";
 import axios from "axios";
-import {
-  Box,
-  Button,
-  Image,
-  Heading,
-  Skeleton,
-} from "@chakra-ui/react";
+import { Box, Image, Heading, Skeleton } from "@chakra-ui/react";
 import { AppContext } from "../context/ContextProvider";
 // import MultipleItems from "./MultipleItems";
 import Slider from "react-slick";
-
-
-
 
 function SampleNextArrow(props) {
   const { className, style, onClick } = props;
@@ -38,9 +29,6 @@ function SamplePrevArrow(props) {
   );
 }
 
-
-
-
 const Row = ({ name, fetched }) => {
   const [rowData, setRowData] = useState([]);
   const { setLoading, setErr, loading, err } = useContext(AppContext);
@@ -52,8 +40,8 @@ const Row = ({ name, fetched }) => {
     speed: 500,
     slidesToShow: 6,
     slidesToScroll: 5,
-    nextArrow: <SampleNextArrow />,
-    prevArrow: <SamplePrevArrow />
+    // nextArrow: <SampleNextArrow />,
+    // prevArrow: <SamplePrevArrow />
   };
 
   let axiosData = async (fetched) => {
@@ -75,11 +63,11 @@ const Row = ({ name, fetched }) => {
   useEffect(() => {
     axiosData(fetched);
   }, [fetched]);
-  return  loading ? (<Skeleton/>): (
+  return loading ? (
+    <Skeleton />
+  ) : (
     <Box>
-      
-     
-      <Heading ml={10} color="white" fontSize="2xl">
+      <Heading ml={1} color="white" fontSize="2xl">
         {name}
       </Heading>
       {/* <Button onClick={() => slider.slickNext()}>Next</Button>
@@ -97,13 +85,17 @@ const Row = ({ name, fetched }) => {
               maxH="300px"
               // padding="20px"
               key={ele.id}
-              ml={15}
-              mr={15}
+              ml={10}
+              mr={10}
               mt={5}
               mb={5}
               transition="transform 450ms"
-              _hover={{ transform: "scale(1.14)",boxShadow:'xs', outline:"1px solid white",onMouseOver:"cursor"}}
-             
+              _hover={{
+                transform: "scale(1.14)",
+                boxShadow: "xs",
+                outline: "1px solid white",
+                cursor: "pointer",
+              }}
             />
           );
         })}

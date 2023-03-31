@@ -1,7 +1,8 @@
 import React from "react";
 import Row from "../component/Row";
-import PauseOnHover from "../component/Banner";
-import Footer from "../component/Footer";
+import CaptionCarousel from "../component/Banner";
+import MyFooter from '../component/MyFooter'
+import Navbar from "../component/Navbar";
 let allData = {
   trend: ` http://localhost:8080/trending`,
   top_10: `http://localhost:8080/top_10`,
@@ -18,8 +19,9 @@ let allData = {
 const Home = () => {
   return (
     <div>
-      <PauseOnHover />
-
+      {/* <PauseOnHover /> */}
+      <Navbar/>
+      <CaptionCarousel/>
       <Row name="Trending Near You" fetched={allData.trend} />
       <Row name="Top 10 Movies In India" fetched={allData.top_10} />
       <Row name="Top Bhojpuri Movies" fetched={allData.top_bhojpuri} />
@@ -30,7 +32,7 @@ const Home = () => {
       <Row name="South Dubbed Dhamaka" fetched={allData.south} />
       <Row name="World Hits | Free Dubbed Movies" fetched={allData.hollywood} />
       <Row name="Evergreen Hindi TV Shows Free" fetched={allData.evergreen} />
-      <Footer />
+      <MyFooter/>
     </div>
   );
 };
