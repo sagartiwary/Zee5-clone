@@ -2,7 +2,7 @@ import React from "react";
 import { useState, useEffect, useContext } from "react";
 import "react-multi-carousel/lib/styles.css";
 import axios from "axios";
-import { Box, Image, Heading, Skeleton } from "@chakra-ui/react";
+import { Box, Image, Heading, Skeleton,Stack } from "@chakra-ui/react";
 import { AppContext } from "../context/ContextProvider";
 // import MultipleItems from "./MultipleItems";
 import Slider from "react-slick";
@@ -64,10 +64,16 @@ const Row = ({ name, fetched }) => {
     axiosData(fetched);
   }, [fetched]);
   return loading ? (
-    <Skeleton />
+
+    <Stack>
+        <Skeleton startColor='white' endColor='orange.500' height="60px" />
+        <Skeleton startColor='white' endColor='orange.500' height="60px" />
+        <Skeleton startColor='white' endColor='orange.500' height="20px" />
+      </Stack>
+   
   ) : (
     <Box>
-      <Heading ml={1} color="white" fontSize="2xl">
+      <Heading  textAlign="left" color="white" fontSize="21px" ml="20px">
         {name}
       </Heading>
       {/* <Button onClick={() => slider.slickNext()}>Next</Button>

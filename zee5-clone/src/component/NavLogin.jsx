@@ -116,7 +116,7 @@ export default function NavLogin() {
                     </AccordionButton>
                   </h2>
                   <AccordionPanel pb={4}>
-                    <Link>Buy Plan</Link>
+                    <Link href="/buy">Buy Plan</Link>
                     <br />
                     <Link>Have a Prepaid code?</Link>
                   </AccordionPanel>
@@ -168,7 +168,7 @@ export default function NavLogin() {
               textAlign="center" 
               margin="auto"
               
-              >Version 2.52.66</Text>
+              >Version 2.57.1</Text>
             </DrawerFooter>
           </DrawerContent>
         </Drawer>
