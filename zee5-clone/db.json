@@ -1062,7 +1062,7 @@
       "id": 20
     }
   ],
-  "top_10FreeWeb":[
+  "top_10FreeWeb": [
     {
       "Audio Languages": "Hindi",
       "Subtitles": " English",
@@ -1163,9 +1163,8 @@
       "Details": " In this ZEE5 Original, crime reporter Vidhi sets out to track out a vanished college student. The character of crime reporter Vidhi Sahani, played by Yami Gautam in the LOST movie, looks uncompromising in her quest for the truth. Her journey shows society's varying aspects, which reinvent the definition of politics, compassion, and treachery.   ",
       "id": 10
     }
-  ]
-  ,"south":[
-
+  ],
+  "south": [
     {
       "Audio Languages": "Hindi",
       "Subtitles": " English",
@@ -1266,9 +1265,8 @@
       "Details": " In this ZEE5 Original, crime reporter Vidhi sets out to track out a vanished college student. The character of crime reporter Vidhi Sahani, played by Yami Gautam in the LOST movie, looks uncompromising in her quest for the truth. Her journey shows society's varying aspects, which reinvent the definition of politics, compassion, and treachery.   ",
       "id": 10
     }
-
   ],
-  "hollywood":[
+  "hollywood": [
     {
       "Audio Languages": "Hindi",
       "Subtitles": " English",
@@ -1369,10 +1367,8 @@
       "Details": " In this ZEE5 Original, crime reporter Vidhi sets out to track out a vanished college student. The character of crime reporter Vidhi Sahani, played by Yami Gautam in the LOST movie, looks uncompromising in her quest for the truth. Her journey shows society's varying aspects, which reinvent the definition of politics, compassion, and treachery.   ",
       "id": 10
     }
-
   ],
-  "evergreen":[
-
+  "evergreen": [
     {
       "Audio Languages": "Hindi",
       "Subtitles": " English",
@@ -1473,6 +1469,145 @@
       "Details": " In this ZEE5 Original, crime reporter Vidhi sets out to track out a vanished college student. The character of crime reporter Vidhi Sahani, played by Yami Gautam in the LOST movie, looks uncompromising in her quest for the truth. Her journey shows society's varying aspects, which reinvent the definition of politics, compassion, and treachery.   ",
       "id": 10
     }
-
+  ],
+  "zee": [
+    {
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-3510/portrait/1920x77072c6851f4d2749faae8b4bd39e167cdc.jpg",
+      "id": 1
+    },
+    {
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-366/portrait/1920x770e0beb888151549ae9a2e44a81bdca399.jpg",
+      "id": 2
+    },
+    {
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-3392/portrait/1920x7707d991637847b42aea29902375556163f.jpg",
+      "id": 3
+    },
+    {
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-127/portrait/1920x77014246e9f1b864bd8996c9a1cb54f6ad3.jpg",
+      "id": 4
+    },
+    {
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-4z5130241/portrait/1920x77078fb9419de954e74a8358dbf8226589f.jpg",
+      "id": 5
+    },
+    {
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-4z5247981/portrait/1920x770d37e1a5a15bd49529264b31dd287b0fd.jpg",
+      "id": 6
+    },
+    {
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-4z5214664/portrait/1920x770bd7951375b5246569cf83ab5543be30d.jpg",
+      "id": 7
+    }
+  ],
+  "free_shows": [
+    {
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-447/portrait/1920x770086b8e66e4e041e998bb1c0656bfc9f5.jpg",
+      "id": 1
+    },
+    {
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-135/portrait/1920x7708b572ba26c2b45969a993ccb59e197b9.jpg",
+      "id": 2
+    },
+    {
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-4z5214664/portrait/1920x770bd7951375b5246569cf83ab5543be30d.jpg",
+      "id": 3
+    },
+    {
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-2275/portrait/1920x77076841544391947569a9329973c4b4410.jpg",
+      "id": 4
+    },
+    {
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-199/portrait/1920x77030600ddde0184d8bb246c2be788b79a5.jpg",
+      "id": 5
+    },
+    {
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-4z5309768/portrait/1920x7707844091a15ad43e8a474a7477c78834c.jpg",
+      "id": 6
+    },
+    {
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-4z5319038/portrait/1920x770429769c15e0d4535bed04ae02c37bcfb.jpg",
+      "id": 7
+    },
+    {
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-271/portrait/1920x770a22111281c6f4f5cad22df60676ce231.jpg",
+      "id": 8
+    },
+    {
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-4z5210380/portrait/1920x770165badcf60ab440690b8db7a25aa55d5.jpg",
+      "id": 9
+    },
+    {
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-4z5222846/portrait/1920x770d064418f14094f78b6ea9576f87bfd6a.jpg",
+      "id": 10
+    }
+  ],
+  "latest": [
+    {
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-4z5311140/portrait/1920x7702288c19af62b45bca7b65d8f277922cd.jpg",
+      "id": 1
+    },
+    {
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-4z5289752/portrait/1920x7706d2f66cc1d0444bfbb7cffc64ba14bb880ef3fd87c28444aa6610df68a6eb515.jpg",
+      "id": 2
+    },
+    {
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5299828/portrait/1920x77023958a1676e340ddb2cd592012f3c263.jpg",
+      "id": 3
+    },
+    {
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-4z5281686/portrait/1920x7704af47d1e734948e381572ad1b52a4ecb4df6c4abb1824eac8df67df6ee440910.jpg",
+      "id": 4
+    },
+    {
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5323147/portrait/1920x770d79df09a751242cda5aeaec20e6a1291ee6dc950c1cd49e6845c6e17cb33a64b.jpg",
+      "id": 5
+    },
+    {
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-4z587408/portrait/1920x770195db875fe204fa4afe115764b5dc00ba004028948aa4211b107faed649301d7.jpg",
+      "id": 6
+    },
+    {
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5301299/portrait/1920x770f5c57d4759124df5bbf870a68dfc6fb5.jpg",
+      "id": 7
+    },
+    {
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-4z5173774/portrait/1920x7706e8d8d70922c434c94dd09c14ccc5d5b.jpg",
+      "id": 8
+    },
+    {
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5177236/portrait/1920x770e7e9d7fd36a642ed86a4867811643d65.jpg",
+      "id": 9
+    },
+    {
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-4z5172356/portrait/1920x7709584469c57ec4547935b629b11da8504.jpg",
+      "id": 10
+    }
+  ],
+  "andTvShows": [
+    {
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-4z519674/portrait/1920x770c752c2fa28424c8881f28f8f9d4634e8.jpg",
+      "id": 1
+    },
+    {
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-4z5269081/portrait/1920x770145fa7206fed4af19bbd4037adcfbd87.jpg",
+      "id": 2
+    },
+    {
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-199/portrait/1920x77030600ddde0184d8bb246c2be788b79a5.jpg",
+      "id": 3
+    },
+    {
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-2275/portrait/1920x77076841544391947569a9329973c4b4410.jpg",
+      "id": 4
+    },
+    {
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-200/portrait/1920x770376002186.jpg",
+      "id": 5
+    },
+    {
+      "image": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-1330/portrait/1920x7701f98bb17a61e46be9f71f71e82c5b762.jpg",
+      "id": 6
+    }
   ]
 }

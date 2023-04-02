@@ -51,7 +51,7 @@ export default function NavLogo() {
               bg="#0F0617"
               _hover={{ background: "#0F0617", textDecoration: "underline" }}
             >
-              <BreadcrumbLink href="/tv">TV Shows</BreadcrumbLink>
+              <BreadcrumbLink href="/tvshows">TV Shows</BreadcrumbLink>
             </BreadcrumbItem>
             <BreadcrumbItem
               bg="#0F0617"
@@ -63,13 +63,13 @@ export default function NavLogo() {
               bg="#0F0617"
               _hover={{ background: "#0F0617", textDecoration: "underline" }}
             >
-              <BreadcrumbLink href="/WebSeries">Web Series</BreadcrumbLink>
+              <BreadcrumbLink href="/webseries">Web Series</BreadcrumbLink>
             </BreadcrumbItem>
             <BreadcrumbItem
               bg="#0F0617"
               _hover={{ background: "#0F0617", textDecoration: "underline" }}
             >
-              <BreadcrumbLink href="/News">News</BreadcrumbLink>
+              <BreadcrumbLink href="/news">News</BreadcrumbLink>
             </BreadcrumbItem>
           </Breadcrumb>
         </Box>
